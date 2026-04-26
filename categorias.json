@@ -1,1 +1,27 @@
-
+[
+  {
+    "nombre": "TV en Vivo",
+    "logo": "https://i.imgur.com/8Km9tLL.png",
+    "go": "tv"
+  },
+  {
+    "nombre": "TV Adicional",
+    "logo": "https://i.imgur.com/3ZQ3Z5L.png",
+    "go": "tv2"
+  },
+  {
+    "nombre": "TV Usa",
+    "logo": "https://i.imgur.com/Vz81QdK.png",
+    "go": "tvusa"
+  },
+  {
+    "nombre": "Peliculas",
+    "logo": "https://i.imgur.com/YZ6XG6b.png",
+    "go": "peliculas"
+  },
+  {
+    "nombre": "Realitys",
+    "logo": "https://i.imgur.com/JR0y5Ck.png",
+    "go": "realitys"
+  }
+]
