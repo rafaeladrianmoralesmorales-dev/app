@@ -2,7 +2,8 @@
  {
  "nombre": "TV en Vivo",
  "logo": "https://i.imgur.com/8Km9tLL.png",
- "go": "tv"
+ "go": "tv",
+ "local": "https://raw.githubusercontent.com/rafaeladrianmoralesmorales-dev/app/refs/heads/1/tvxestados.json"
  },
  {
  "nombre": "TV Adicional",
