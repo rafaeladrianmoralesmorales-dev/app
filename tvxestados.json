@@ -1,7 +1,10 @@
 [
  {
- "Estado": "Veracruz",
- "Municipio": "Poza Rica",
+ "Estado": "cdmx",
+ "go": "tv"
+ }
+ {
+ "Estado": "veracruz",
  "go": "poza"
  }
 ]
