@@ -1,27 +1,27 @@
 [
  {
  "nombre": "TV en Vivo",
- "logo": "https://i.imgur.com/8Km9tLL.png",
+ "logo": "https://app.evolutiontv.mx//android/assets/section_live_tv_esp.png",
  "go": "tv"
  },
  {
  "nombre": "TV Adicional",
- "logo": "https://i.imgur.com/3ZQ3Z5L.png",
+ "logo": "https://app.evolutiontv.mx//android/assets/section_live_tv_esp.png",
  "go": "tv2"
  },
  {
  "nombre": "TV Usa",
- "logo": "https://i.imgur.com/Vz81QdK.png",
+ "logo": "https://app.evolutiontv.mx//android/assets/section_live_tv.png",
  "go": "tvusa"
  },
  {
  "nombre": "Peliculas",
- "logo": "https://i.imgur.com/YZ6XG6b.png",
+ "logo": "https://app.evolutiontv.mx//android/assets/section_movies.png",
  "go": "peliculas"
  },
  {
  "nombre": "Realitys",
- "logo": "https://i.imgur.com/JR0y5Ck.png",
+ "logo": "https://app.evolutiontv.mx//android/assets/section_concerts.png",
  "go": "realitys"
  }
 ]
