@@ -1,11 +1,11 @@
 [
  {
- "nombre": "TV en Vivo",
+ "nombre": "TV Local",
  "logo": "https://app.evolutiontv.mx//android/assets/section_live_tv_esp.png",
  "go": "tv"
  },
  {
- "nombre": "TV Adicional",
+ "nombre": "TV Nacional",
  "logo": "https://app.evolutiontv.mx//android/assets/section_live_tv_esp.png",
  "go": "tv2"
  },
