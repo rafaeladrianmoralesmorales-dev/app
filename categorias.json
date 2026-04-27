@@ -15,10 +15,6 @@
  "go": "tvusa"
  },
  {
- "nombre": "Peliculas",
- "logo": "https://app.evolutiontv.mx//android/assets/section_movies.png",
- "go": "peliculas"
- },
  {
  "nombre": "Realitys",
  "logo": "https://app.evolutiontv.mx//android/assets/section_concerts.png",
